@@ -1,0 +1,7 @@
+.square{
+  width: 100px !important;
+  height: 100px;
+  background-color: var(--tea-green);
+  font-size: 40px;
+  border: solid 1px;
+}
